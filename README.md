@@ -5,5 +5,5 @@ Welecome everyone pull request that can help me to complete my project.
 
 ## This project is for my ecg deep learning research
 ### Need to be fixed
-+ If frequency is lower than 200Hz would got some error.
-+ When signal has too many noise, R-waves cannot be mark.
++ If frequency is lower than 200Hz, program will get some error.
++ When signal has too many noise, R-waves cannot be marked.
